@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G10Ray
 - 👀 I’m interested in World
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning SwiftUi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
